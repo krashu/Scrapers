@@ -5,7 +5,7 @@ Personal scrapers for study notes and data collection.
 ## Tools
 
 - [`article-to-markdown/`](./article-to-markdown) — convert any article URL to local markdown with embedded images
-- (more to come)
+- youtube-transcript
 
 ## Conventions
 
